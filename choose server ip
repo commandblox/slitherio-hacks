@@ -1,0 +1,1 @@
+var ip = null;function get_ip() {if (ip == null) {ip = prompt("server ip:", "");}return ip;};eval(connect.toString().replace('ws://"+bso.ip+":"+bso.po+"/slither', 'ws://" + get_ip() + ":444/slither'));
