@@ -1,7 +1,7 @@
 # slitherio-hacks
 Basic slither.io hacks
 
-# choose server ip
+# Choose server ip
 Copy the code and paste it into the browser console. When you press play it will ask you for the server ip. Known ips:
 
 147.135.15.102
