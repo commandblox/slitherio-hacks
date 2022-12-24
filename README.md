@@ -27,3 +27,6 @@ Copy the code and paste it into the browser console. When you press play it will
 158.69.54.142
 
 78.46.43.244
+
+# Change zoom
+Copy the code into the browser console in the play screen. This will allow you to use the scroll wheel to zoom in and out. Not everything renders, which I am hoping to fix in a later version.
